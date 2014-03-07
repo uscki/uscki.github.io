@@ -1,6 +1,7 @@
 items = 0;
 volgendePagina = "#";
 vorigePagina = "#";
+document.onkeyup = toets;
 
 function volgendItem() {
 	items += 1;
@@ -14,6 +15,21 @@ function volgendItem() {
 
 function init(volgende,vorige) {
 	volgendePagina = volgende;
-	vorigePagian = vorige;
+	vorigePagina = vorige;
 	volgendItem();
+}
+
+function toets(e) {
+	var id = (window.event) ? event.keyCode : e.keyCode;
+	switch(id) {
+		case 32: //Spatie.
+			volgendItem();
+			break;
+		case 37: //Pijl naar links.
+			window.location.href = vorigePagina;
+			break;
+		case 39: //Pijl naar rechts.
+			window.location.href = volgendePagina;
+			break;
+	}
 }
