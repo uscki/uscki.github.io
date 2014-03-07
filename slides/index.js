@@ -2,6 +2,7 @@ items = 0;
 volgendePagina = "#";
 vorigePagina = "#";
 document.onkeyup = toets;
+window.onresize = resize;
 
 function volgendItem() {
 	items += 1;
@@ -13,7 +14,12 @@ function volgendItem() {
 	}
 }
 
+function resize() {
+	document.body.style.fontSize = (window.innerWidth / 40) + "px";
+}
+
 function init(volgende,vorige) {
+	resize();
 	volgendePagina = volgende;
 	vorigePagina = vorige;
 	volgendItem();
