@@ -1,0 +1,60 @@
+body {
+	margin: 0px;
+	font-family: Helvetica Light, Verdana, Arial, sans-serif;
+	font-size: 24pt;
+}
+
+div {
+	margin-left: 5%;
+	width: 90%;
+}
+
+ul {
+	margin-left: 10%;
+	margin-top: 0%;
+	margin-bottom: 0%;
+	width: 80%;
+}
+
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.categoriebalk {
+	font-size: 0.5em;
+	font-weight: bold;
+	text-align: right;
+	background-color: #993911;
+	margin: 0%;
+	width: 95%;
+	padding-right: 5%;
+}
+
+.titelbalk {
+	font-size: 2em;
+	font-weight: bold;
+	text-align: center;
+	background-color: #CC7754;
+	margin: 0%;
+	margin-bottom: 5%;
+	width: 100%;
+}
+
+.code {
+	font-family: Lucida Console, Courier New;
+	font-size: 0.8em;
+	background-color: #C3FFC3;
+	width: 78%;
+	margin-left: 10%;
+	padding: 1%;
+}
+
+.kleurenschema {
+	border-color: #FF8383;
+	border-top-color: #7ECC54;
+	border-bottom-color: #C3FFC3;
+	border-left-color: #993911;
+	border-right-color: #CC7754;
+}

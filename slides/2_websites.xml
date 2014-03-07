@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<?xml-stylesheet type="text/xsl" href="index.xsl" ?>
+
+<slide>
+	<titel>Websites</titel>
+	<categorie>Introductie</categorie>
+	<volgende>#</volgende>
+	<vorige>1_introductie.xml</vorige>
+	<element type="tekst">Onze website is mooi.</element>
+</slide>
