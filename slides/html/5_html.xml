@@ -4,7 +4,7 @@
 <slide>
 	<titel>HTML</titel>
 	<categorie>HTML</categorie>
-	<volgende>#</volgende>
+	<volgende>6_structuur.xml</volgende>
 	<vorige>../4_nadelen.xml</vorige>
 	<element type="tekst">HTML: HyperText Markup Language</element>
 	<element type="tekst">Bestaat uit "Markup Tags"</element>

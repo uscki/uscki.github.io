@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="../index.xsl" ?>
+
+<slide>
+	<titel>&#x3C;head&#x3E;</titel>
+	<categorie>HTML</categorie>
+	<volgende>8_body.xml</volgende>
+	<vorige>6_structuur.xml</vorige>
+	<element type="tekst">Meta-informatie over het document</element>
+	<element type="code"><![CDATA[<title>Titel van het document</title>]]></element>
+	<element type="bullet">Titel</element>
+	<element type="bullet">CSS Stylesheet</element>
+	<element type="bullet">JavaScript</element>
+	<element type="tekst">Meer daarover later!</element>
+</slide>

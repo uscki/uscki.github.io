@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="../index.xsl" ?>
+
+<slide>
+	<titel>Plaatjes</titel>
+	<categorie>HTML</categorie>
+	<volgende>14_links.xml</volgende>
+	<vorige>12_lijstjes.xml</vorige>
+	<element type="code"><![CDATA[<img src="plaatje.jpg"></img>]]></element>
+	<element type="plaatje" grootte="20">plaatje.png</element>
+</slide>

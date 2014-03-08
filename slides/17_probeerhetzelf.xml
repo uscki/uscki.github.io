@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="index.xsl" ?>
+
+<slide>
+	<titel>Probeer het zelf!</titel>
+	<categorie>Zelfwerken</categorie>
+	<volgende>#</volgende>
+	<vorige>html/16_tabellen.xml</vorige>
+	<element type="tekst">Probeer het zelf in kladblok!</element>
+</slide>

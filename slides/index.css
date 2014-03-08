@@ -1,4 +1,4 @@
-html,body {
+﻿html,body {
 	height: 100%;
 	overflow: hidden;
 }
@@ -17,17 +17,26 @@ div {
 	width: 90%;
 }
 
-ul {
+ul,ol {
 	margin-left: 10%;
 	margin-top: 0%;
 	margin-bottom: 0%;
 	width: 80%;
 }
 
+table {
+	border: dashed 1pt black;
+}
+
 img {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
+}
+
+h1,h2,h3 {
+	margin-top: 0%;
+	margin-bottom: 0%;
 }
 
 .categoriebalk {
@@ -61,6 +70,7 @@ img {
 	width: 78%;
 	margin-left: 10%;
 	padding: 1%;
+	white-space: pre-wrap;
 }
 
 .kleurenschema {

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="../index.xsl" ?>
+
+<slide>
+	<titel>Whitespace en Regeleindes</titel>
+	<categorie>HTML</categorie>
+	<volgende>12_lijstjes.xml</volgende>
+	<vorige>10_whitespace.xml</vorige>
+	<element type="code"><![CDATA[<p>Paragraaf 1</p>
+<p>Paragraaf 2</p>]]></element>
+	<element type="tekst"><p>Paragraaf 1</p><p>Paragraaf 2</p></element>
+	<element type="code"><![CDATA[Regel 1<br><br />
+Regel 2]]></element>
+	<element type="tekst">Regel 1<br />Regel 2</element>
+</slide>

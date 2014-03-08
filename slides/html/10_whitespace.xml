@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="../index.xsl" ?>
+
+<slide>
+	<titel>Whitespace en Regeleindes</titel>
+	<categorie>HTML</categorie>
+	<volgende>11_whitespace.xml</volgende>
+	<vorige>9_kopjes.xml</vorige>
+	<element type="tekst">Whitespace (tabs, newlines, spaties) worden samengevoegd tot 1 spatie</element>
+	<element type="code"><![CDATA[Het  maakt     niets uit
+wat voor   	whitespace   hiertussen staat.]]></element>
+	<element type="tekst">Het  maakt     niets uit
+wat voor	whitespace   hiertussen staat.</element>
+</slide>

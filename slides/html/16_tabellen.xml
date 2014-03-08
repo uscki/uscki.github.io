@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="../index.xsl" ?>
+
+<slide>
+	<titel>Tabellen</titel>
+	<categorie>HTML</categorie>
+	<volgende>../17_probeerhetzelf.xml</volgende>
+	<vorige>15_indeling.xml</vorige>
+	<element type="code"><![CDATA[<table>
+	<tr>
+		<td>Cel 1</td>
+		<td>Cel 2</td>
+	</tr>
+	<tr>
+		<td>Cel 3</td>
+		<td>Cel 4</td>
+	</tr>
+</table>]]></element>
+	<element type="tekst"><table><tr><td>Cel 1</td><td>Cel 2</td></tr><tr><td>Cel 3</td><td>Cel 4</td></tr></table></element>
+</slide>

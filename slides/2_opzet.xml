@@ -10,8 +10,8 @@
 	<element type="tekst">Technieken die we gaan behandelen:</element>
 	<element type="bullet">HTML: Structuur en inhoud van de pagina</element>
 	<element type="bullet">CSS: Opmaak van de pagina</element>
-	<element type="bullet">JavaScript: Interactiviteit van de pagina</element>
 	<element type="bullet">Git: Versiecontrole</element>
-	<element type="tekst">Tussen elk onderwerp in zelf proberen!</element>
+	<element type="bullet">JavaScript: Interactiviteit van de pagina</element>
+	<element type="tekst">Ondertussen zelf proberen!</element>
 	<element type="tekst">Niet behandeld: PHP (programmeertaal voor servers die HTML genereert), XSL (scheidt structuur van inhoud)</element>
 </slide>

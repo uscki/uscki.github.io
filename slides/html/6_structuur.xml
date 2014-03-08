@@ -4,15 +4,15 @@
 <slide>
 	<titel>Structuur van HTML</titel>
 	<categorie>HTML</categorie>
-	<volgende>#</volgende>
+	<volgende>7_head.xml</volgende>
 	<vorige>5_html.xml</vorige>
 	<element type="tekst">Hierarchische structuur</element>
 	<element type="code"><![CDATA[<html>
- <head>
-  <title>Paginatitel</title>
- </head>
- <body>
-  Paginainhoud
- </body>
+	<head>
+		<title>Paginatitel</title>
+	</head>
+	<body>
+		Paginainhoud
+	</body>
 </html>]]></element>
 </slide>

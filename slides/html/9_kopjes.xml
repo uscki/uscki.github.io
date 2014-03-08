@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="../index.xsl" ?>
+
+<slide>
+	<titel>Kopjes</titel>
+	<categorie>HTML</categorie>
+	<volgende>10_whitespace.xml</volgende>
+	<vorige>8_body.xml</vorige>
+	<achtergrond>kopjes.png</achtergrond>
+	<element type="code"><![CDATA[<h1>Header 1</h1>
+<h2>Header 2</h2>
+<h3>Header 3</h3>]]></element>
+	<element type="tekst"><h1>H1</h1><h2>H2</h2><h3>H3</h3></element>
+</slide>

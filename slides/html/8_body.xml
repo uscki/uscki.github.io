@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="../index.xsl" ?>
+
+<slide>
+	<titel>&#x3C;body&#x3E;</titel>
+	<categorie>HTML</categorie>
+	<volgende>9_kopjes.xml</volgende>
+	<vorige>7_head.xml</vorige>
+	<element type="tekst">Wordt getoond op het scherm</element>
+	<element type="code"><![CDATA[<body>
+	<h1>Kopje</h1>
+	<p>Een paragraaf van tekst.</p>
+</body>]]></element>
+	<element type="tekst"><h1>Kopje</h1><p>Een paragraaf van tekst.</p></element>
+</slide>
