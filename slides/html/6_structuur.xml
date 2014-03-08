@@ -6,6 +6,7 @@
 	<categorie>HTML</categorie>
 	<volgende>7_head.xml</volgende>
 	<vorige>5_html.xml</vorige>
+	<achtergrond>structuur.png</achtergrond>
 	<element type="tekst">Hierarchische structuur</element>
 	<element type="code"><![CDATA[<html>
 	<head>

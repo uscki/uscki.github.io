@@ -67,7 +67,7 @@ h1,h2,h3 {
 .code {
 	font-family: Lucida Console, Courier New;
 	font-size: 0.8em;
-	background-color: #C3FFC3;
+	background-image: url('http://uscki.github.io/slides/codeAchtergrond.png');
 	width: 78%;
 	margin-left: 10%;
 	padding: 1%;

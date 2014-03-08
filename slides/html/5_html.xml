@@ -6,6 +6,7 @@
 	<categorie>HTML</categorie>
 	<volgende>6_structuur.xml</volgende>
 	<vorige>../4_nadelen.xml</vorige>
+	<achtergrond>html.png</achtergrond>
 	<element type="tekst">HTML: HyperText Markup Language</element>
 	<element type="tekst">Bestaat uit "Markup Tags"</element>
 	<element type="code">Dit is een &#x3C;i&#x3E;cursief&#x3C;/i&#x3E; woord.</element>
