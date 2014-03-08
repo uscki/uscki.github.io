@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="index.xsl" ?>
+
+<slide>
+	<titel>Probeer het zelf!</titel>
+	<categorie>Zelfwerken</categorie>
+	<volgende>git/27_git.xml</volgende>
+	<vorige>css/25_klassen.xml</vorige>
+	<achtergrond>kladblok.png</achtergrond>
+	<element type="tekst">Probeer het zelf in kladblok</element>
+	<element type="tekst">Sla het op als .css, en koppel het aan je HTML-pagina</element>
+	<element type="code"><![CDATA[.opvallend {
+	background-color: light blue;
+	font-weight: bold;
+	font-family: Arial Bold, Arial, sans-serif;
+	font-size: 2em;
+}]]></element>
+</slide>

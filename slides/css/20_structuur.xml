@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="../index.xsl" ?>
+
+<slide>
+	<titel>Structuur</titel>
+	<categorie>CSS</categorie>
+	<volgende>21_voorbeelden.xml</volgende>
+	<vorige>19_stylesheets.xml</vorige>
+	<element type="tekst">Specificeer voor elk element één voor één de stijl:</element>
+	<element type="code"><![CDATA[«element» {
+	«eigenschap»: «waarde»;
+	«eigenschap»: «waarde»;
+	...
+}]]></element>
+	<element type="tekst">Elementen en eigenschappen die missen: Standaardwaarde</element>
+</slide>

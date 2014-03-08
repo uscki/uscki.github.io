@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="../index.xsl" ?>
+
+<slide>
+	<titel>Stylesheets</titel>
+	<categorie>CSS</categorie>
+	<volgende>20_structuur.xml</volgende>
+	<vorige>18_css.xml</vorige>
+	<element type="tekst">CSS wordt meestal opgeslagen in apart .css bestand</element>
+	<element type="code"><![CDATA[<link rel="stylesheet" type="text/css" href="opmaak.css" />]]></element>
+	<element type="tekst">Als je dan iets wilt aanpassen, hoef je niet alle HTML-pagina's door te spitten!</element>
+</slide>

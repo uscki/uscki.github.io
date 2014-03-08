@@ -7,6 +7,6 @@
 	<volgende>15_indeling.xml</volgende>
 	<vorige>13_plaatjes.xml</vorige>
 	<element type="tekst">Als je er op klikt, ga je naar een andere pagina.</element>
-	<element type="code"><![CDATA[<a href="http://uscki.nl/">De mooiste site ter wereld.</a>]]></element>
-	<element type="tekst"><a href="http://uscki.nl/">De mooiste site ter wereld.</a></element>
+	<element type="code"><![CDATA[De mooiste <a href="http://uscki.nl/">site</a> ter wereld.]]></element>
+	<element type="tekst">De mooiste <a href="http://uscki.nl/">site</a> ter wereld.</element>
 </slide>

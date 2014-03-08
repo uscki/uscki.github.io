@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="../index.xsl" ?>
+
+<slide>
+	<titel>Maten en Eenheden</titel>
+	<categorie>CSS</categorie>
+	<volgende>23_boxmodel.xml</volgende>
+	<vorige>21_voorbeelden.xml</vorige>
+	<element type="code"><![CDATA[font-size: 10pt;]]></element>
+	<element type="tekst">Maateenheden voor grootte:</element>
+	<element type="bullet">px: Pixels (afhankelijk van apparaat)</element>
+	<element type="bullet">pt: Punten met vaste grootte (72pt = 1 inch)</element>
+	<element type="bullet">em: Relatief aan regelhoogte van het omsluitend element</element>
+	<element type="bullet">%: Relatief aan grootte van dezelfde eigenschap van het omsluitend element</element>
+</slide>

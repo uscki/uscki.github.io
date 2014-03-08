@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="../index.xsl" ?>
+
+<slide>
+	<titel>Klassen</titel>
+	<categorie>CSS</categorie>
+	<volgende>../26_probeerhetzelf.xml</volgende>
+	<vorige>24_lettertypes.xml</vorige>
+	<element type="tekst">Je hoeft niet elke &#x3C;p&#x3E;, &#x3C;div&#x3E;, etc. dezelfde stijl te geven</element>
+	<element type="code"><![CDATA[.gemarkeerd {
+	font-weight: bold;
+	background-color: yellow;
+}]]></element>
+	<element type="code"><![CDATA[Ik wil <span class="gemarkeerd">opvallende</span> tekst.]]></element>
+	<element type="tekst">Ik wil <span style="font-weight: bold; background-color: yellow;">opvallende</span> tekst.</element>
+</slide>

@@ -4,7 +4,20 @@
 <slide>
 	<titel>Probeer het zelf!</titel>
 	<categorie>Zelfwerken</categorie>
-	<volgende>#</volgende>
+	<volgende>css/18_css.xml</volgende>
 	<vorige>html/16_tabellen.xml</vorige>
-	<element type="tekst">Probeer het zelf in kladblok!</element>
+	<achtergrond>kladblok.png</achtergrond>
+	<element type="tekst">Probeer het zelf in kladblok, sla het op als .html, en open met Firefox.</element>
+	<element type="code"><![CDATA[<html>
+	<head>
+		<title>Portfolio</title>
+	</head>
+	<body>
+		<h1>Portfolio</h1>
+		<ul>
+			<li>Ik heb CKI gestudeerd.</li>
+			<li>Ik kan HTML!</li>
+		</ul>
+	</body>
+</html>]]></element>
 </slide>

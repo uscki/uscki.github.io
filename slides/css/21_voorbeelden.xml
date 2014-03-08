@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="../index.xsl" ?>
+
+<slide>
+	<titel>Voorbeelden</titel>
+	<categorie>CSS</categorie>
+	<volgende>22_eenheden.xml</volgende>
+	<vorige>20_structuur.xml</vorige>
+	<element type="tekst">Enkele veelgebruikte eigenschappen:</element>
+	<element type="bullet">color: tekstkleur</element>
+	<element type="bullet">background-color: achtergrondkleur</element>
+	<element type="bullet">background-image: achtergrondplaatje (over de kleur heen)</element>
+	<element type="bullet">font-size: tekstgrootte</element>
+	<element type="bullet">font-family: lettertype</element>
+	<element type="bullet">text-align: uitlijning</element>
+	<element type="bullet">text-decoration: onderstrepen (en meer)</element>
+	<element type="bullet">margin, padding, border: positionering en randen</element>
+</slide>

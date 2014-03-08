@@ -8,15 +8,15 @@
 	<vorige>11_whitespace.xml</vorige>
 	<element type="tekst">
 		<div style="width: 40%; float: left;"><ul><li>Ongeordende</li><li>Lijstjes</li></ul></div>
-		<div style="width: 50%; float: right;"><div class="code">&#x3C;ul&#x3E;<br />
+		<div style="width: 50%; float: right;"><div class="code" style="white-space: normal;">&#x3C;ul&#x3E;<br />
 		<img src="http://uscki.github.io/slides/spacer.gif" style="display: inline-block; width: 6.2%;" height="1" />&#x3C;li&#x3E;Ongeordende&#x3C;/li&#x3E;<br />
 		<img src="http://uscki.github.io/slides/spacer.gif" style="display: inline-block; width: 6.2%;" height="1" />&#x3C;li&#x3E;Lijstjes&#x3C;/li&#x3E;<br />
 		&#x3C;/ul&#x3E;</div></div>
 		<br /> <br /> <br />
 	</element>
 	<element type="tekst">
-		<div style="width: 35%; float: left; padding-left: 5%;"><ol><li>Geordende</li><li>Lijstjes</li></ol></div>
-		<div style="width: 50%; float: right;"><div class="code">&#x3C;ol&#x3E;<br />
+		<div style="width: 40%; float: left;"><ol><li>Geordende</li><li>Lijstjes</li></ol></div>
+		<div style="width: 50%; float: right;"><div class="code" style="white-space: normal;">&#x3C;ol&#x3E;<br />
 		<img src="http://uscki.github.io/slides/spacer.gif" style="display: inline-block; width: 6.2%;" height="1" />&#x3C;li&#x3E;Geordende&#x3C;/li&#x3E;<br />
 		<img src="http://uscki.github.io/slides/spacer.gif" style="display: inline-block; width: 6.2%;" height="1" />&#x3C;li&#x3E;Lijstjes&#x3C;/li&#x3E;<br />
 		&#x3C;/ol&#x3E;</div></div>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="../index.xsl" ?>
+
+<slide>
+	<titel>Lettertypes</titel>
+	<categorie>CSS</categorie>
+	<volgende>25_klassen.xml</volgende>
+	<vorige>23_boxmodel.xml</vorige>
+	<element type="tekst">Probleem: Gebruiker heeft jouw lettertype niet</element>
+	<element type="code"><![CDATA[font-family: Fancy-exclusifico, Verdana, Wingdings, sans-serif;]]></element>
+	<element type="tekst">Altijd aanwezig: serif, sans-serif, monospace, cursive, fantasy</element>
+</slide>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="../index.xsl" ?>
+
+<slide>
+	<titel>Box Model</titel>
+	<categorie>CSS</categorie>
+	<volgende>24_lettertypes.xml</volgende>
+	<vorige>22_eenheden.xml</vorige>
+	<element type="tekst">Elk element zit in een rechthoekje</element>
+	<element type="plaatje" grootte="50">boxmodel.svg</element>
+</slide>

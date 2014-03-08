@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="../index.xsl" ?>
+
+<slide>
+	<titel>CSS: De Opmaak</titel>
+	<categorie>CSS</categorie>
+	<volgende>19_stylesheets.xml</volgende>
+	<vorige>../17_probeerhetzelf.xml</vorige>
+	<achtergrond>css.png</achtergrond>
+	<element type="tekst">Cascading Style Sheet</element>
+	<element type="tekst">Bepaalt opmaak van elementen in het HTML-document</element>
+	<element type="code"><![CDATA[p {
+	font-size: 6pt;
+	color: red;
+	background-color: black;
+}]]></element>
+	<element type="tekst"><p style="font-size: 0.6em; color: red; background-color: black;">Deze paragraaf heeft opmaak.</p></element>
+</slide>
