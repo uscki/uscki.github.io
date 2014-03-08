@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="../index.xsl" ?>
+
+<slide>
+	<titel>Git</titel>
+	<categorie>Git</categorie>
+	<volgende>30_github.xml</volgende>
+	<vorige>28_versiecontrole.xml</vorige>
+	<element type="tekst">Git is versiecontrole!</element>
+	<element type="bullet">Gratis en open source</element>
+	<element type="bullet">Decentraal</element>
+	<element type="bullet">Efficiënt, zelfs met grote projecten</element>
+</slide>

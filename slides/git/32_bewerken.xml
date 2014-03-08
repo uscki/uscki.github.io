@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="../index.xsl" ?>
+
+<slide>
+	<titel>Bestanden Bewerken</titel>
+	<categorie>Git</categorie>
+	<volgende>33_committen.xml</volgende>
+	<vorige>31_toevoegen.xml</vorige>
+	<achtergrond>bewerkbestand1.png</achtergrond>
+	<element type="plaatje" grootte="100">bewerkbestand2.png</element>
+	<element type="plaatje" grootte="100">bewerkbestand3.png</element>
+</slide>

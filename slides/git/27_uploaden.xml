@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="../index.xsl" ?>
+
+<slide>
+	<titel>Uploaden</titel>
+	<categorie>Git</categorie>
+	<volgende>28_versiecontrole.xml</volgende>
+	<vorige>../26_probeerhetzelf.xml</vorige>
+	<element type="tekst">Tot nu toe is alles nog alleen een bestand op jouw computer. Hoe zetten we het online?</element>
+	<element type="tekst">Normaal gesproken: Zet het in de goede map op een server. Server doet de rest.</element>
+	<element type="tekst">Maar wij doen: Github</element>
+	<element type="tekst">Daarbij leer je versiecontrole</element>
+</slide>

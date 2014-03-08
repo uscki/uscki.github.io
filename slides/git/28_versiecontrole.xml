@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="../index.xsl" ?>
+
+<slide>
+	<titel>Versiecontrole</titel>
+	<categorie>Git</categorie>
+	<volgende>29_git.xml</volgende>
+	<vorige>27_uploaden.xml</vorige>
+	<element type="tekst">Versiecontrole is een manier om samen te werken:</element>
+	<element type="bullet">Iedereen heeft zijn eigen versie van het project (lokaal)</element>
+	<element type="bullet">Als iemand een wijziging maakt, uploadt hij dat naar een centrale plek (repository)</element>
+	<element type="bullet">Centrale plek houdt geschiedenis bij van uploads (versies)</element>
+	<element type="bullet">Als mensen tegelijk dezelfde code bewerken, komt er een "conflict"</element>
+	<element type="bullet">Je kan veranderingen terugdraaien, zien wie wat heeft gedaan, backups maken, etc</element>
+</slide>

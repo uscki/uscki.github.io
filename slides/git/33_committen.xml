@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="../index.xsl" ?>
+
+<slide>
+	<titel>Committen</titel>
+	<categorie>Git</categorie>
+	<volgende>34_app.xml</volgende>
+	<vorige>32_bewerken.xml</vorige>
+	<achtergrond>commit.png</achtergrond>
+	<element type="tekst"><div style="background-color: white;">Als je klaar bent, typ dan in wat je hebt gedaan, en druk op "Commit new file".</div></element>
+</slide>

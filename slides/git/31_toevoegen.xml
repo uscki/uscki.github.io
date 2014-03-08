@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="../index.xsl" ?>
+
+<slide>
+	<titel>Bestanden Toevoegen</titel>
+	<categorie>Git</categorie>
+	<volgende>32_bewerken.xml</volgende>
+	<vorige>30_github.xml</vorige>
+	<achtergrond>nieuwbestand.png</achtergrond>
+	<element type="tekst"> </element>
+</slide>
