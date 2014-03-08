@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="index.xsl" ?>
+
+<slide>
+	<titel>Nadelen</titel>
+	<categorie>Introductie</categorie>
+	<volgende>html/5_html.xml</volgende>
+	<vorige>3_overwebsites.xml</vorige>
+	<achtergrond>nadelen.png</achtergrond>
+	<element type="tekst"> </element>
+	<element type="bullet">Niet alle browsers werken hetzelfde</element>
+	<element type="bullet">Het is wel héél erg vrij, en daardoor lastig in gebruik</element>
+	<element type="bullet">Geen ingebouwde wetenschappelijke notatie of generatie van grafiekjes, zoals LaTeX</element>
+	<element type="bullet">Niet gemaakt om te printen</element>
+</slide>

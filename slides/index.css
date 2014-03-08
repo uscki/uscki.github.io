@@ -1,7 +1,15 @@
+html,body {
+	height: 100%;
+	overflow: hidden;
+}
+
 body {
 	margin: 0px;
 	font-family: Helvetica Light, Verdana, Arial, sans-serif;
 	font-size: 24pt;
+	background-repeat: no-repeat;
+	background-position: bottom;
+	background-size: 100% Auto;
 }
 
 div {
@@ -30,6 +38,8 @@ img {
 	margin: 0%;
 	width: 95%;
 	padding-right: 5%;
+	padding-top: 0.5%;
+	padding-bottom: 0.5%;
 }
 
 .titelbalk {
@@ -39,6 +49,8 @@ img {
 	background-color: #CC7754;
 	margin: 0%;
 	margin-bottom: 5%;
+	padding-top: 0.5%;
+	padding-bottom: 0.5%;
 	width: 100%;
 }
 

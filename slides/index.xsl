@@ -12,6 +12,13 @@
 			<meta name="copyright" content="2014&#xA9; ICKI" />
 			<title>Websiteworkshop</title>
 			<link rel="stylesheet" type="text/css" href="index.css" />
+			<xsl:if test="slide/achtergrond">
+				<style>
+					body {
+						background-image: url('<xsl:value-of select="slide/achtergrond" />');
+					}
+				</style>
+			</xsl:if>
 			<script type="text/javascript" src="index.js" />
 		</head>
 		<body onClick="volgendItem()">
@@ -28,7 +35,7 @@
 						<p style="visibility: hidden;">
 							<xsl:attribute name="id">elem<xsl:value-of select="position()" /></xsl:attribute>
 							<div>
-								<xsl:value-of select="." />
+								<xsl:copy-of select="." />
 							</div>
 						</p>
 					</xsl:when>
@@ -36,7 +43,7 @@
 						<ul style="visibility: hidden;">
 							<xsl:attribute name="id">elem<xsl:value-of select="position()" /></xsl:attribute>
 							<li>
-								<xsl:value-of select="." />
+								<xsl:copy-of select="." />
 							</li>
 						</ul>
 					</xsl:when>
@@ -52,7 +59,7 @@
 						<p style="visibility: hidden;">
 							<xsl:attribute name="id">elem<xsl:value-of select="position()" /></xsl:attribute>
 							<div class="code">
-								<xsl:value-of select="." />
+								<xsl:copy-of select="." />
 							</div>
 						</p>
 					</xsl:when>

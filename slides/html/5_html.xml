@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="../index.xsl" ?>
+
+<slide>
+	<titel>HTML</titel>
+	<categorie>HTML</categorie>
+	<volgende>#</volgende>
+	<vorige>../4_nadelen.xml</vorige>
+	<element type="tekst">HTML: HyperText Markup Language</element>
+	<element type="tekst">Bestaat uit "Markup Tags"</element>
+	<element type="code">Dit is een &#x3C;i&#x3E;cursief&#x3C;/i&#x3E; woord.</element>
+	<element type="tekst">Dit is een <i>cursief</i> woord</element>
+	<element type="tekst">Lijkt op BB-code! (geen toeval)</element>
+</slide>

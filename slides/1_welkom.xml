@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="index.xsl" ?>
+
+<slide>
+	<titel>Welkom</titel>
+	<categorie>Introductie</categorie>
+	<volgende>2_opzet.xml</volgende>
+	<vorige>#</vorige>
+	<achtergrond>welkom.png</achtergrond>
+	<element type="tekst">Workshop webontwerp<br />Georganiseerd door de ICKI</element>
+</slide>

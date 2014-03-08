@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="index.xsl" ?>
+
+<slide>
+	<titel>Wat Is een Website</titel>
+	<categorie>Introductie</categorie>
+	<volgende>4_nadelen.xml</volgende>
+	<vorige>2_opzet.xml</vorige>
+	<achtergrond>overwebsites.png</achtergrond>
+	<element type="tekst">Multimedia-document (net als Word of PDF)</element>
+	<element type="tekst">Website bezoeken downloadt dit document</element>
+	<element type="tekst">Bijzonderheden:</element>
+	<element type="bullet">Interactief</element>
+	<element type="bullet">Vrijheid in opmaak</element>
+	<element type="bullet">Layout werkt op alle computers</element>
+	<element type="bullet">Simpel te maken (volgens programmeurs)</element>
+	<element type="bullet">Snel om te downloaden</element>
+</slide>
