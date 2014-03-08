@@ -4,7 +4,12 @@ vorigePagina = "#";
 document.onkeyup = toets;
 window.onresize = resize;
 
+extras = function() {
+	
+}
+
 function volgendItem() {
+	extras();
 	items += 1;
 	element = document.getElementById("elem" + items);
 	if(element) {

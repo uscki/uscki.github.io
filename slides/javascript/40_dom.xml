@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="../index.xsl" ?>
+
+<slide>
+	<titel>DOM Element</titel>
+	<categorie>JavaScript</categorie>
+	<volgende>41_getelementbyid.xml</volgende>
+	<vorige>39_dom.xml</vorige>
+	<element type="tekst">Een DOM Element heeft een aantal eigenschappen die je met JavaScript kan veranderen, zoals:</element>
+	<element type="bullet">style: De CSS-stijl van dat element</element>
+	<element type="bullet">innerHTML: De HTML-code voor de inhoud van het element</element>
+	<element type="bullet">parentNode: Het element dat er boven zit</element>
+	<element type="bullet">id: Een naam om het element aan te vinden</element>
+</slide>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="../index.xsl" ?>
+
+<slide>
+	<titel>DOM: Document Object Model</titel>
+	<categorie>JavaScript</categorie>
+	<volgende>40_dom.xml</volgende>
+	<vorige>38_voorbeeld.xml</vorige>
+	<element type="plaatje" grootte="30">dom.svg</element>
+</slide>

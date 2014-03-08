@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="../index.xsl" ?>
+
+<slide>
+	<titel>Conflicten</titel>
+	<categorie>Git</categorie>
+	<volgende>../javascript/36_javascript.xml</volgende>
+	<vorige>34_app.xml</vorige>
+	<element type="tekst">Probeer nu eens allemaal tegelijk ruben.html te bewerken!</element>
+</slide>

@@ -1,0 +1,32 @@
+body {
+	font-family: Verdana, Arial, sans-serif;
+	font-size: 10pt;
+	background-color: #E0E0FF;
+	margin: 0px;
+}
+
+h1 {
+	font-family: Arial Black, Arial, sans-serif;
+	font-size: 2em;
+	font-weight: bold;
+	color: midnightblue;
+}
+
+h2 {
+	font-family: Arial Black, Arial, sans-serif;
+	font-size: 1.5em;
+	font-weight: bold;
+	color: midnightblue;
+}
+
+.bezigheden {
+	background-color: #C0C0FF;
+}
+
+.kunsten {
+	background-color: #A0A0FF;
+}
+
+.gedaan {
+	background-color: #8080FF;
+}

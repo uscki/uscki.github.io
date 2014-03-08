@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="../index.xsl" ?>
+
+<slide>
+	<titel>JavaScript</titel>
+	<categorie>JavaScript</categorie>
+	<volgende>37_scripts.xml</volgende>
+	<vorige>../git/35_conflicten.xml</vorige>
+	<element type="tekst">JavaScript: Programmeertaal</element>
+	<element type="bullet">Niet te verwarren met Java</element>
+	<element type="bullet">Bewerkt het HTML document</element>
+	<element type="tekst">JavaScript kan worden uitgevoerd bij evenementen:</element>
+	<element type="bullet">Laden van de pagina</element>
+	<element type="bullet">Als je ergens op klikt</element>
+	<element type="bullet">Als de muis ergens overheen gaat</element>
+	<element type="bullet">etc</element>
+</slide>

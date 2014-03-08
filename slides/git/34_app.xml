@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="../index.xsl" ?>
+
+<slide>
+	<titel>Committen (in de GitHub app)</titel>
+	<categorie>Git</categorie>
+	<volgende>35_conflicten.xml</volgende>
+	<vorige>33_committen.xml</vorige>
+	<element type="plaatje" grootte="80">app.png</element>
+</slide>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="../index.xsl" ?>
+
+<slide>
+	<titel>getElementById</titel>
+	<categorie>JavaScript</categorie>
+	<volgende>42_events.xml</volgende>
+	<vorige>40_dom.xml</vorige>
+	<element type="code">document.getElementById("naam").innerHTML = "Gelukt!";</element>
+	<element type="code"><![CDATA[<div id="naam">Nog niet gelukt.</div>]]></element>
+	<element type="tekst"><div id="naam">Nog niet gelukt.</div></element>
+	<element type="tekst"><script>extras = function() { if(items == 4) document.getElementById("naam").innerHTML = "Gelukt!"; }</script></element>
+</slide>

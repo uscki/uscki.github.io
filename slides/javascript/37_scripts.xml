@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="../index.xsl" ?>
+
+<slide>
+	<titel>Scriptbestanden</titel>
+	<categorie>JavaScript</categorie>
+	<volgende>38_voorbeeld.xml</volgende>
+	<vorige>36_javascript.xml</vorige>
+	<element type="tekst">Sla het bestand op als .js</element>
+	<element type="code"><![CDATA[<script type="text/javascript" src="script.js" />]]></element>
+	<element type="tekst">Het bestand wordt direct uitgevoerd!</element>
+</slide>
