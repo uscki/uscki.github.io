@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="../index.xsl" ?>
+
+<slide>
+	<titel>Events</titel>
+	<categorie>JavaScript</categorie>
+	<volgende>../43_probeerhetzelf.xml</volgende>
+	<vorige>41_getelementbyid.xml</vorige>
+	<element type="tekst">Je kan JavaScript functies aanroepen bij evenementen:</element>
+	<element type="code"><![CDATA[<div id="divje" onMouseOver="over()" onMouseOut="out()">
+	Kom hier met die muis.
+</div>]]></element>
+	<element type="code" grootte="0.8">function over() {
+	document.getElementById("divje").style.backgroundColor = "lightgreen"; }
+function out() {
+	document.getElementById("divje").style.backgroundColor = "white"; }</element>
+	<element type="tekst">
+		<script>
+			function over() { document.getElementById("divje").style.backgroundColor = "lightgreen"; }
+			function out() { document.getElementById("divje").style.backgroundColor = "white"; }
+		</script>
+		<div id="divje" onMouseOver="over()" onMouseOut="out()">Kom hier met die muis.</div>
+	</element>
+</slide>

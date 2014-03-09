@@ -9,5 +9,5 @@
 	<element type="code">document.getElementById("naam").innerHTML = "Gelukt!";</element>
 	<element type="code"><![CDATA[<div id="naam">Nog niet gelukt.</div>]]></element>
 	<element type="tekst"><div id="naam">Nog niet gelukt.</div></element>
-	<element type="tekst"><script>extras = function() { if(items == 4) document.getElementById("naam").innerHTML = "Gelukt!"; }</script></element>
+	<element type="tekst"><script>extras = function() { if(items == 3) document.getElementById("naam").innerHTML = "Gelukt!"; }</script></element>
 </slide>

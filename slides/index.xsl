@@ -61,6 +61,11 @@
 					<xsl:when test="@type = 'code'">
 						<p style="visibility: hidden;">
 							<xsl:attribute name="id">elem<xsl:value-of select="position()" /></xsl:attribute>
+							<xsl:attribute name="style">visibility: hidden;
+								<xsl:if test="@grootte">
+									font-size: <xsl:value-of select="@grootte" />em;
+								</xsl:if>
+							</xsl:attribute>
 							<div class="code">
 								<xsl:call-template name="converteerWhitespace">
 									<xsl:with-param name="string" select="." />

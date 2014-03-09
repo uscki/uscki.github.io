@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="index.xsl" ?>
+
+<slide>
+	<titel>Events</titel>
+	<categorie>Zelfwerken</categorie>
+	<volgende>#</volgende>
+	<vorige>javascript/42_events.xml</vorige>
+	<achtergrond>kladblok.png</achtergrond>
+	<element type="tekst">Probeer het zelf in kladblok</element>
+	<element type="tekst">Sla het op als .js, en koppel het aan je HTML-pagina</element>
+</slide>

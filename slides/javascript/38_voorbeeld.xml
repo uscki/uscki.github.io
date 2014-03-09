@@ -7,5 +7,5 @@
 	<volgende>39_dom.xml</volgende>
 	<vorige>37_scripts.xml</vorige>
 	<element type="code">document.body.style.backgroundColor = "green";</element>
-	<element type="tekst"><script>extras = function() {document.body.style.backgroundColor = "green";}</script></element>
+	<element type="tekst"><script>extras = function() { if(items == 1) document.body.style.backgroundColor = "green"; }</script></element>
 </slide>
