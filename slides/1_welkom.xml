@@ -7,6 +7,6 @@
 	<volgende>2_opzet.xml</volgende>
 	<vorige>#</vorige>
 	<achtergrond>welkom.png</achtergrond>
-	<element type="tekst">Workshop webontwerp<br />Georganiseerd door de ICKI</element>
+	<element type="tekst">Workshop webontwerp<br />Georganiseerd door de ICKI<br />Deze slides staan online op http://uscki.github.io/slides/</element>
 	<element type="tekst">Dit is wat de ICKI doet!</element>
 </slide>
