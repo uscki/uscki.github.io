@@ -6,6 +6,7 @@
 	<categorie>CSS</categorie>
 	<volgende>../26_probeerhetzelf.xml</volgende>
 	<vorige>24_lettertypes.xml</vorige>
+	<achtergrond>klassen.png</achtergrond>
 	<element type="tekst">Je hoeft niet elke &#x3C;p&#x3E;, &#x3C;div&#x3E;, etc. dezelfde stijl te geven</element>
 	<element type="code"><![CDATA[.gemarkeerd {
 	font-weight: bold;

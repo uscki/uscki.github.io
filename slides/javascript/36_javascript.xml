@@ -6,6 +6,7 @@
 	<categorie>JavaScript</categorie>
 	<volgende>37_scripts.xml</volgende>
 	<vorige>../git/35_conflicten.xml</vorige>
+	<achtergrond>javascript.png</achtergrond>
 	<element type="tekst">JavaScript: Programmeertaal</element>
 	<element type="bullet">Niet te verwarren met Java</element>
 	<element type="bullet">Bewerkt het HTML document</element>

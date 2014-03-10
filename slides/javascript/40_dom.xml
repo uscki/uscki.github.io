@@ -6,6 +6,7 @@
 	<categorie>JavaScript</categorie>
 	<volgende>41_getelementbyid.xml</volgende>
 	<vorige>39_dom.xml</vorige>
+	<achtergrond>dom.png</achtergrond>
 	<element type="tekst">Een DOM Element heeft een aantal eigenschappen die je met JavaScript kan veranderen, zoals:</element>
 	<element type="bullet">style: De CSS-stijl van dat element</element>
 	<element type="bullet">innerHTML: De HTML-code voor de inhoud van het element</element>

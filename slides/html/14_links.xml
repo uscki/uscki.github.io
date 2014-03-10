@@ -6,6 +6,7 @@
 	<categorie>HTML</categorie>
 	<volgende>15_indeling.xml</volgende>
 	<vorige>13_plaatjes.xml</vorige>
+	<achtergrond>links.png</achtergrond>
 	<element type="tekst">Als je er op klikt, ga je naar een andere pagina.</element>
 	<element type="code"><![CDATA[De mooiste <a href="http://uscki.nl/">site</a> ter wereld.]]></element>
 	<element type="tekst">De mooiste <a href="http://uscki.nl/">site</a> ter wereld.</element>

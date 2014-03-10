@@ -35,7 +35,9 @@
 						<p style="visibility: hidden;">
 							<xsl:attribute name="id">elem<xsl:value-of select="position()" /></xsl:attribute>
 							<div>
-								<xsl:copy-of select="." />
+								<span style="background-image: url('tekstAchtergrond.png');">
+									<xsl:copy-of select="." />
+								</span>
 							</div>
 						</p>
 					</xsl:when>
@@ -43,7 +45,7 @@
 						<ul style="visibility: hidden;">
 							<xsl:attribute name="id">elem<xsl:value-of select="position()" /></xsl:attribute>
 							<li>
-								<xsl:copy-of select="." />
+								<span style="background-image: url('tekstAchtergrond.png');"><xsl:copy-of select="." /></span>
 							</li>
 						</ul>
 					</xsl:when>

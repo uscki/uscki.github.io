@@ -6,6 +6,7 @@
 	<categorie>Git</categorie>
 	<volgende>29_git.xml</volgende>
 	<vorige>27_uploaden.xml</vorige>
+	<achtergrond>versiecontrole.png</achtergrond>
 	<element type="tekst">Versiecontrole is een manier om samen te werken:</element>
 	<element type="bullet">Iedereen heeft zijn eigen versie van het project (lokaal)</element>
 	<element type="bullet">Als iemand een wijziging maakt, uploadt hij dat naar een centrale plek (repository)</element>

@@ -6,6 +6,7 @@
 	<categorie>Git</categorie>
 	<volgende>31_toevoegen.xml</volgende>
 	<vorige>29_git.xml</vorige>
+	<achtergrond>github.png</achtergrond>
 	<element type="tekst">Gratis online Git-repositories</element>
 	<element type="code">github.com</element>
 	<element type="tekst">Maak een profiel aan, dan voegen wij je toe aan de ontwikkelaars van uscki.github.io</element>

@@ -7,6 +7,10 @@
 	<volgende>33_committen.xml</volgende>
 	<vorige>31_toevoegen.xml</vorige>
 	<achtergrond>bewerkbestand1.png</achtergrond>
-	<element type="plaatje" grootte="100">bewerkbestand2.png</element>
-	<element type="plaatje" grootte="100">bewerkbestand3.png</element>
+	<element type="tekst"> <script>extras = function() {
+	if(items == 1) document.body.style.backgroundImage = "url('bewerkbestand2.png')";
+	if(items == 2) document.body.style.backgroundImage = "url('bewerkbestand3.png')";
+}</script></element>
+	<element type="tekst"> </element>
+	<element type="tekst"> </element>
 </slide>

@@ -6,6 +6,7 @@
 	<categorie>Git</categorie>
 	<volgende>30_github.xml</volgende>
 	<vorige>28_versiecontrole.xml</vorige>
+	<achtergrond>git.png</achtergrond>
 	<element type="tekst">Git is versiecontrole!</element>
 	<element type="bullet">Gratis en open source</element>
 	<element type="bullet">Decentraal</element>

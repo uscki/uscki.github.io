@@ -6,7 +6,26 @@
 	<categorie>CSS</categorie>
 	<volgende>22_eenheden.xml</volgende>
 	<vorige>20_structuur.xml</vorige>
-	<element type="tekst">Enkele veelgebruikte eigenschappen:</element>
+	<element type="tekst">Enkele veelgebruikte eigenschappen:
+		<script>extras = function() {
+	if(items == 1) document.body.style.color = "#600000";
+	if(items == 2) document.body.style.backgroundColor = "#C3FFC3";
+	if(items == 3) {
+		document.body.style.backgroundImage = "url('stipjes.png')";
+		document.body.style.backgroundRepeat = "repeat";
+		document.body.style.backgroundSize = "Auto";
+	}
+	if(items == 4) document.body.style.fontSize = (window.innerWidth / 35) + "px";
+	if(items == 5) document.body.style.fontFamily = "Arial Black, sans-serif";
+	if(items == 6) document.body.style.textAlign = "center";
+	if(items == 7) document.body.style.textDecoration = "underline";
+	if(items == 8) {
+		document.body.style.margin = "2%";
+		document.body.style.padding = "2%";
+		document.body.style.border = "1%";
+	}
+}</script>
+	</element>
 	<element type="bullet">color: tekstkleur</element>
 	<element type="bullet">background-color: achtergrondkleur</element>
 	<element type="bullet">background-image: achtergrondplaatje (over de kleur heen)</element>

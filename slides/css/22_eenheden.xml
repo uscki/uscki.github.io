@@ -6,6 +6,7 @@
 	<categorie>CSS</categorie>
 	<volgende>23_boxmodel.xml</volgende>
 	<vorige>21_voorbeelden.xml</vorige>
+	<achtergrond>eenheden.png</achtergrond>
 	<element type="code"><![CDATA[font-size: 10pt;]]></element>
 	<element type="tekst">Maateenheden voor grootte:</element>
 	<element type="bullet">px: Pixels (afhankelijk van apparaat)</element>
