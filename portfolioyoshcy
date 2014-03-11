@@ -1,0 +1,24 @@
+<html>
+	<head>
+		<title>
+			Portfolio
+		</title>
+		<link rel="stylesheet" type="text/css" href="new  2.css"/>
+	</head>
+	<body>
+		<h1>Portfolio</h1>
+		<div> Hallo, mijn naam is Josca en ik heb dit gedaan in mijn leven:
+		<ul>
+			<li> Kunstmatige Intelligentie gestudeerd aan de Universiteit Utrecht </li>
+			<li> Voorzitter zijn van de tofste studievereniging ooit: </li>
+			<br>
+			<a href="http://uscki.nl/"> <img src="plaatje.png"></img> </a>
+			<li> Verder niet zo veel </li>
+			<li> Hoewel ik wel deze heb berg beklommen:
+		</ul>
+		
+		<img src="melderskin.png"></img>
+		(<-Dit is Melderskin in Noorwegen :) )
+		</div>
+	</body>
+</html>
