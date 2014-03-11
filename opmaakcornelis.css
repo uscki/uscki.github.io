@@ -1,0 +1,43 @@
+p {
+	font-size: 10pt;
+	color: green;
+}
+
+html {
+	background-color: green;
+}
+
+body {
+	background-color: red;
+	text-align: left;
+	margin: 100pt;
+	border: 5pt dotted green;
+}
+
+h2 {
+	border: 2pt solid black;
+	padding: 1pt;
+	height: 25pt:
+	width: 50pt;
+}
+
+h1 {
+	text-align: right;
+	background-color: yellow;
+}
+
+li {
+	color: white;
+	font-family: Verdana;
+}
+
+ul {
+	text-decoration: underline;
+	border: 20pt solid black;
+}
+
+.speciaal {
+	background-color: yellow;
+	font-size: 20pt;
+	
+}
