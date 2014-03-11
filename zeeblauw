@@ -1,0 +1,6 @@
+div{
+	font-size: 20pt;
+	font-family: cursive;
+	color: blue;
+	background-color: 99FFFF;
+}
