@@ -1,0 +1,22 @@
+<html>
+	<head>
+		<title>Jeej, Workshop</title>
+		<link rel="stylesheet" type="text/css" href="stijlsheet.css"/>
+	</head>
+	<body>
+	<h1>Awesomeness</h1>
+	Deze site awesome, maar nog in constructie<br>
+	<ul>
+	<li>< br >  is een enter</li>
+	<li>< a href="http://www.google.com">Google< /a> is een link naar <a href="http://www.google.com" target=_blank>Google</a>
+	</ul>
+	<div> Ik zit in een divider </div> <div> Ik zit ook in een divider</div>
+	<div class = divnet>
+	<div>	<a href="http://www.nu.nl"><img src="fractal.png" width = 300 height = 300></a>	</div>
+	<div>	<img src="fractalgif.gif" width = 300 height = 300> 	</div>
+	<div>	<img src="weirdfractal.png" width = 300 height = 300>	</div>
+	</div>
+	<p> Mooie css opmaak hoor!</p>
+	<span class="opvallend">Mooie opvallende tekst!</span>
+	</body>
+</html>
